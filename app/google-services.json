@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "532306084350",
+    "firebase_url": "https://deliverytracker-7af5a.firebaseio.com",
+    "project_id": "deliverytracker-7af5a",
+    "storage_bucket": "deliverytracker-7af5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532306084350:android:9418fa81f12b6dad",
+        "android_client_info": {
+          "package_name": "ecampus.nayan.deliverytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532306084350-huupghbkq9q05b2di1epdlnuq1b04b1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ecampus.nayan.deliverytracker",
+            "certificate_hash": "cd089cad5c7f2affd77671ca860f101a68474fdc"
+          }
+        },
+        {
+          "client_id": "532306084350-3ge7apgusehg1sjm9944uv488vnufpm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2HrU4LKtppZsT2TZggAwwXO_mF6NXRmo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532306084350-3ge7apgusehg1sjm9944uv488vnufpm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
